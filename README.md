@@ -1,4 +1,4 @@
-# DL - Deep Learning Chatbot
+# DL - LSTM Chatbot
 Projeto Final da matéria de Deep Learning
 - Autor: Wilson Cosmo
 
